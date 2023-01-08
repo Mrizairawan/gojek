@@ -1,14 +1,16 @@
-CT-Crew Toldi 11
-CT-Crew Toldi 01
-CT-Crew Toldi 22
-CT-Crew Toldi 02
-CT-Crew Toldi 33
-CT-Crew Toldi 03
-CT-Crew Toldi 44
-CT-Crew Toldi 04
-CT-Crew Toldi 55
-CT-Crew Toldi 05
-CNR- DHAHABSZAN01
-CNR- BANSJAUGSJ02
-CNR- AKSNDHDJSJ03
-CNR- AUDJNDBDBA04
+<?php
+
+$user = "CT-Crew Toldi 01";
+$user = "CT-Crew Toldi 11";
+$user = "CT-Crew Toldi 21";
+$user = "CT-Crew Toldi 31";
+$user = "CT-Crew Toldi 41";
+$user = "CT-Crew Toldi 51";
+$user = "CT-Crew Toldi 61";
+$user = "CT-Crew Toldi 71";
+$user = "CT-Crew Toldi 81";
+$user = "CT-Crew Toldi 91";
+$user = "CNR- DHAHABSZAN01";
+$user = "CNR- BANSJAUGSJ02";
+$user = "CNR- AKSNDHDJSJ03";
+$user = "CNR- AUDJNDBDBA04";
