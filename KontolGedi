@@ -1,19 +1,19 @@
 {
     "Login": [
         {
-            "Verify": "xxxxx",
+            "Verify": "$2y$10$8yYCJqCE7FED3bF9urwsHO.yvlhRZj6Yf.CcfWy0IWkTH6y4fcK2u",
             "Status": "ON"
-            "Username": "jancok1233"
+            "Username": "jancok111"
         },
         {
             
-            "Verify": "$2y$10$a2o5pXPBpwa88kxiefswmOsacLrY57gE46e6zmmqi9rYoX13HkJBu",
+            "Verify": "xxxx",
             "Status": "ON"
             "Username": "admin"
         },
         {
             
-            "Verify": "$2y$10$a2o5pXPBpwa88kxiefswmOsacLrY57gE46e6zmmqi9rYoX13HkJBu",
+            "Verify": "xxxxx",
             "Status": "ON"
             "Username": "admin"
         }
