@@ -1,19 +1,18 @@
 {
     "Login": [
         {
-            "Auth": "XCDg4jI=*FqeOGId8yNzv36Xdq1vzEQ==*G/JqCnV/5JS8VGf7/vPbDw==*OpTzvXTA8gpbA0zx/7Cbfg==",
-            "Verify": "$2y$10$FmNHMzZbf82ySAC7nLUeU.FedPSmdAnepnhorRTVLDyYvE0UF.Gki",
+            "Verify": "$2y$10$YGHv5amarSCpIv56t9avWe7Q/nokpuUkz9MgEUkqYg4vahFn3RQ8C",
             "Status": "ON"
-            "Username": "admin00"
+            "Username": "jancok1233"
         },
         {
-            "Auth": "xxxxxx",
+            
             "Verify": "$2y$10$a2o5pXPBpwa88kxiefswmOsacLrY57gE46e6zmmqi9rYoX13HkJBu",
             "Status": "ON"
             "Username": "admin"
         },
         {
-            "Auth": "xxxxxx",
+            
             "Verify": "$2y$10$a2o5pXPBpwa88kxiefswmOsacLrY57gE46e6zmmqi9rYoX13HkJBu",
             "Status": "ON"
             "Username": "admin"
