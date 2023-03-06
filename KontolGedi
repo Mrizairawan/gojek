@@ -1,0 +1,22 @@
+{
+    "Login": [
+        {
+            "Auth": "xxxxxx",
+            "Verify": "$2y$10$a2o5pXPBpwa88kxiefswmOsacLrY57gE46e6zmmqi9rYoX13HkJBu",
+            "Status": "ON"
+            "Username": "admin"
+        },
+        {
+            "Auth": "xxxxxx",
+            "Verify": "$2y$10$a2o5pXPBpwa88kxiefswmOsacLrY57gE46e6zmmqi9rYoX13HkJBu",
+            "Status": "ON"
+            "Username": "admin"
+        },
+        {
+            "Auth": "xxxxxx",
+            "Verify": "$2y$10$a2o5pXPBpwa88kxiefswmOsacLrY57gE46e6zmmqi9rYoX13HkJBu",
+            "Status": "ON"
+            "Username": "admin"
+        }
+    ]
+}
