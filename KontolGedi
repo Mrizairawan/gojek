@@ -2,19 +2,19 @@
     "Login": [
         {
             "Verify": "$2y$10$CsG060tNdgbl3GDklyjqFeV3jWLq5HB4floKEM1X62OsKd24K8ZRy",
-            "Status": "ON"
+            "Status": "ON",
             "Username": "tes"
         },
         {
             
             "Verify": "xxxx",
-            "Status": "ON"
+            "Status": "ON",
             "Username": "admin"
         },
         {
             
             "Verify": "xxxxx",
-            "Status": "ON"
+            "Status": "ON",
             "Username": "admin"
         }
     ]
