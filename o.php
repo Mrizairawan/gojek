@@ -3,14 +3,6 @@ error_reporting(0);
 date_default_timezone_set("Asia/Jakarta");
 $clear99 = shell_exec("clear");
 echo $clear99;
-$cokicoki = json_decode(file_get_contents("https://raw.githubusercontent.com/Suhugendut/gojek/main/KontolGedi"),true)['Login'];
-$babi = 0;
-$babu = $cokicoki[$babi]['Username'];
-$myip = array();
-$myip[] = 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36';
-$awl = curl('http://lumtest.com/myip.json', null, $myip);
-$ip = json_decode($awl[1])->ip;
-$tele001 =file_get_contents("https://api.telegram.org/bot6131980522:AAHGWu-EKAThEm86eDS1MC5uaSLzdZBC4z0/sendMessage?chat_id=1421316731&text=Username ''$babu'' Login Ke SC KLIK TMC V2-0 ip address : $ip " ); 
 
  
 awalmula:
